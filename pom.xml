@@ -10,7 +10,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<tomcat7Version>7.0.33</tomcat7Version>
+		<tomcat7Version>9.0.31</tomcat7Version>
 	</properties>
 
 	<dependencies>
